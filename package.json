@@ -1,0 +1,12 @@
+{
+  "name": "md2js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:upleveled/md2js.git",
+  "author": "Juho Vepsalainen <bebraw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "marked": "^0.5.1"
+  }
+}
