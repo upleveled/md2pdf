@@ -1,5 +1,7 @@
 # md2pdf
 
+**Note:** This is a very minimal Markdown to PDF generator. [`md-to-pdf`](https://github.com/simonhaenisch/md-to-pdf) has more features.
+
 Use (via [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)):
 
 ```sh
