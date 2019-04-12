@@ -1,6 +1,6 @@
 # md2pdf
 
-Use (via npx):
+Use (via [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)):
 
 ```sh
 npx github:upleveled/md2pdf#v1.0.1 file.md
