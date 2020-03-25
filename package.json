@@ -10,8 +10,5 @@
     "html-pdf": "^2.2.0",
     "marked": "^0.6.1"
   },
-  "private": true,
-  "resolutions": {
-    "mkdirp": "0.5.3"
-  }
+  "private": true
 }
