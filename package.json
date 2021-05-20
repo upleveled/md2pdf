@@ -7,7 +7,7 @@
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "html-pdf": "2.2.0",
+    "html-pdf": "3.0.1",
     "marked": "0.8.2"
   },
   "private": true
